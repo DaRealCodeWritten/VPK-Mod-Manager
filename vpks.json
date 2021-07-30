@@ -1,5 +1,8 @@
 {
   "vpks": {
-
+    "test_vpk.vpk": {
+      "Mod": "Basic",
+      "md5": ""
+    }
   }
 }
