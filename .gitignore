@@ -130,3 +130,4 @@ dmypy.json
 
 # Misc config files
 .dir
+.idea/
